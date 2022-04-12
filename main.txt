@@ -1,1 +1,9 @@
 ws2_1.py
+ws2_2.py
+ws2_3.py
+ws3_1.py
+ws3_2.py
+ws4_1.py
+ws4_2.py
+ws5_1.py
+data_mining_ps5.py
